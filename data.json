@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "name": "Shreyansh",
+            "email": "Shreyansh@mail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "123"
+        },
+        {
+            "name": "Shreyansh",
+            "email": "Shreyansh@gmail.com",
+            "age": 22,
+            "sex": "Male",
+            "password": "123"
+        },
+        {
+            "name": "Shreyansh",
+            "email": "Shreyanshjain@gmail.com",
+            "age": 20,
+            "sex": "Male",
+            "password": "123"
+        },
+        {
+            "name": "Shreyansh",
+            "email": "Shreyansh@jain",
+            "age": 22,
+            "sex": "Male",
+            "password": "123"
+        }
+    ]
+}
